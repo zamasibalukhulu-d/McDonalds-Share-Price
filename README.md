@@ -1,4 +1,8 @@
 # McDonalds-Share-Price
+
+<img width="5000" height="5000" alt="image" src="https://github.com/user-attachments/assets/868204d6-0c2e-4a1a-974e-73563b6bf60f" />
+
+
 A historical data analysis on  McDonald's Share Price from 2000 to 2025
 
 ***DATA SOURCE***: @ Yahoo Fianance
