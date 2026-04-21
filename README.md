@@ -13,3 +13,11 @@ Dataset contains share price data from the year 2000 to 2005
 - Close: Final closing trading price of the stock before market closing
 - High: The highest price that the stock reached at trading day
 - Low: The lowest price that the stock dropped from the initial price.
+
+## TABLE OF CONTENTS:
+ - [DATASET](https://github.com/zamasibalukhulu-d/McDonalds-Share-Price/blob/main/MCD.csv)
+ 
+ - [NOTEBOOK](https://github.com/zamasibalukhulu-d/McDonalds-Share-Price/blob/main/McDonald_Share_Price.ipynb)
+ 
+ - [ANALYSIS RESOURCES](https://github.com/zamasibalukhulu-d/McDonalds-Share-Price/blob/main/Resources)
+ 
